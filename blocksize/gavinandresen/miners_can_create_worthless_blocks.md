@@ -4,4 +4,4 @@
 
 > When we get close to bumping into the block size limitation it will be easy to convince a majority of the network to upgrade-- that's one problem that is obvious and easy to fix.
 
-https://bitcointalk.org/index.php?topic=4981.msg73599#msg73599
+2011-03-27 https://bitcointalk.org/index.php?topic=4981.msg73599#msg73599

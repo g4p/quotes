@@ -2,4 +2,4 @@
 
 > Eliminate the block size limit as a network rule entirely
 
-https://bitcointalk.org/index.php?topic=157141.msg1758131#msg1758131
+2013-04-06 https://bitcointalk.org/index.php?topic=157141.msg1758131#msg1758131

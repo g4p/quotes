@@ -4,4 +4,4 @@
 
 > That would be a great problem to have!
 
-https://www.reddit.com/r/Bitcoin/comments/2jw5pm/im_gavin_andresen_chief_scientist_at_the_bitcoin/clfmx4y
+2014-10-22 https://www.reddit.com/r/Bitcoin/comments/2jw5pm/im_gavin_andresen_chief_scientist_at_the_bitcoin/clfmx4y

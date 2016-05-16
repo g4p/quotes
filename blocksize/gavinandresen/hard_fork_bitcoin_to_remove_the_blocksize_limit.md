@@ -2,4 +2,4 @@
 
 > The first really compelling reason I can think of is removing the MAX_BLOCK_SIZE limit (but does something clever to prevent the rogue-miner-sends-you-a-valid-10Terabyte-block attack).
 
-http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000527.html
+2011-09-14 http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000527.html
